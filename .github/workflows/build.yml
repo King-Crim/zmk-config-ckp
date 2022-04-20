@@ -44,3 +44,5 @@ jobs:
         with:
           name: firmware
           path: bt60.uf2
+ - board: bt60v2
+    shield: settings_reset
